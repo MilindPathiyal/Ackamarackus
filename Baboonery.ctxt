@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Baboonery()
+comment1.params=x
+comment1.target=Baboonery(Fadoodle)
+comment2.params=y
+comment2.target=Fadoodle\ getFlummery(Fadoodle)
+comment3.params=s
+comment3.target=void\ flummadiddle(java.lang.String)
+comment4.params=a
+comment4.target=Baboonery(int)
+comment5.params=m\ n\ o\ codswallop
+comment5.target=Baboonery\ tarradoodle(Fadoodle,\ java.lang.String,\ Fadoodle,\ double)
+numComments=6
